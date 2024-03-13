@@ -53,7 +53,7 @@ const NavBar = () => {
           } bottom-0  h-screen w-screen  duration-500`}
         >
           <div className="bg-dark h-full w-2/6 opacity-60 "></div>
-          <div className="bg-pure flex-1 overflow-y-auto pt-20 ">
+          <div className="bg-pure flex-1 overflow-y-auto pt-32 ">
             <NavLink />
             <div className="flex flex-col gap-y-4 text-center items-center md:mt-0 mt-10 mb-20 md:mb-0 ">
               <Button className=" text-gray hover:text-black">
